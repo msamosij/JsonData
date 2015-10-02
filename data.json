@@ -1,5 +1,4 @@
 {
-	"countries": {
 		"country": [
 			{
 				"countryName": "Andorra",
@@ -1252,5 +1251,4 @@
 				"languages": "en-ZW,sn,nr,nd"
 			}
 		]
-	}
 }
